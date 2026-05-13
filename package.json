@@ -1,0 +1,19 @@
+{
+  "name": "honoris",
+  "version": "1.0.0",
+  "description": "- **Node.js** → https://nodejs.org  (v16+) - **Clé API Anthropic** → https://console.anthropic.com",
+  "main": "server (1) (1).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "node-modules": "^1.0.1"
+  }
+}

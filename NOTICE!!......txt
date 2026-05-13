@@ -1,0 +1,7 @@
+NOTICE!!.....
+
+you have to install node.js before you begin the steps from the videos
+
+https://nodejs.org/en/download
+
+
